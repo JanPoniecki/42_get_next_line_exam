@@ -21,6 +21,24 @@ The buffer is a **static variable**, meaning that every time the function is cal
 
 ---
 
+## How to Use  
+
+Follow these steps to get started with `get_next_line`:  
+
+1. **Clone the repository:**  
+   ```bash
+   git clone https://github.com/JanPoniecki/42_get_next_line_exam.git
+   cd get_next_line
+
+2. **Compile the program:**  
+   ```bash
+   make
+
+3. **Run the program:**  
+   ```bash
+   ./gnl
+That's it! Now you can see the get_next_line function in action.
+
 ## What makes it special?  
 
 For me, this project was a journey of persistence and refinement. It taught me the importance of revisiting and improving code, as well as the value of simplicity and clarity in programming.  
