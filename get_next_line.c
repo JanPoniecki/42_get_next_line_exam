@@ -93,7 +93,7 @@ int main()
 	fd = open("test", O_RDONLY);
 	while (1)
 	{
-		line = gnl(fd);
+		line = get_next_line(fd);
 		if (!line)
 			break ;
 		printf("%s", line);
